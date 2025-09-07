@@ -48,53 +48,41 @@ Problem-Solving Patterns
 📂 Repository Structure
 The code is organized into folders, with each folder dedicated to a specific data structure or algorithmic concept. The file names within each folder are descriptive of the problem they solve.
 
-📁 Time_Complexity/
-
-📁 Arrays/
-
-📁 Searching/
-
-📁 Sorting/
-
-📁 LinkedList/
-
-📁 Stack/
-
-📁 Recursion/
-
-📁 Backtracking(Recursion)/
-
-📁 TwoPointer/
-
-📁 SlidingWindow/
-
-📁 BinarySearch_problems/
-
-📁 Greedy/
-
-📁 Trees/
-
-📁 Graphs/
-
-📁 Dynamic_Programming/
-
-📁 Trie/
+``` bash
+dsa-python-practice/
+├── Time_Complexity/
+├── Arrays/
+├── Searching/
+├── Sorting/
+├── LinkedList/
+├── Stack/
+├── Recursion/
+├── Backtracking(Recursion)/
+├── TwoPointer/
+├── SlidingWindow/
+├── BinarySearch_problems/
+├── Greedy/
+├── Trees/
+├── Graphs/
+├── Dynamic_Programming/
+└── Trie/
+```
 
 💻 How to Use This Repository
 You can clone this repository to your local machine to review the solutions or test the code.
 
 Clone the repository:
-
+```bash
 git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-
+```
 Navigate to a specific folder:
-
+```bash
 cd your-repository-name/data_structures/arrays/
-
+```
 Run a Python file:
-
-python array_find_element.py
-
+```bash
+python FileName.py
+```
 ✨ What's Next?
 Completing this 20-day challenge has been an incredible learning experience. My next steps are to:
 
