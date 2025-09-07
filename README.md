@@ -5,44 +5,34 @@ Welcome to my repository! This project documents my progress and solutions from 
 
 This repository serves as a personal logbook of my learning journey. It contains the code I wrote, the concepts I explored, and the solutions I developed for a wide range of DSA topics. The primary goal was to move from theoretical knowledge to practical application, and each file represents a step forward in that journey.
 
-📚 Topics Covered:
+📚 **Topics Covered**
 
 I delved into numerous core concepts essential for software development and technical interviews. The repository is structured by topic, making it easy to navigate to specific areas.
 
-Here are the key areas I covered:
+---
 
-🧱 Data Structures
-Arrays: Core operations and problem-solving patterns.
+### 🧱 **Data Structures**
+- **Arrays**: Core operations, problem-solving patterns
+- **Linked Lists**: Singly linked lists, loop detection
+- **Stacks**: LIFO, parenthesis balancing
+- **Trees**: Traversals (BFS, DFS), Binary Search Trees
+- **Graphs**: Weighted graphs, Dijkstra's algorithm
+- **Trie**: Efficient prefix-based searching
 
-Linked Lists: Implementation of singly linked lists and loop detection.
+### 🧠 **Algorithms**
+- **Searching**: Linear & Binary Search (1D & 2D)
+- **Sorting**: Bubble Sort, Merge Sort
+- **Recursion & Backtracking**: Rat in a Maze, Subset Sum
+- **Dynamic Programming**: Coin Change, Longest Palindromic Subsequence
+- **Greedy Algorithms**: Job Scheduling, Lemonade Change
+- **Sliding Window**: Efficient array/string processing
+- **Two-Pointer Technique**: Optimized solutions
 
-Stacks: LIFO principle applied to problems like parenthesis balancing.
+### 📖 **Fundamentals**
+- **Time Complexity Analysis**: Big O notation
+- **Problem-Solving Patterns**: Common approaches for new challenges
 
-Trees: In-depth exploration of traversals (BFS, DFS) and Binary Search Trees.
-
-Graphs: Weighted graph representations and Dijkstra's shortest path algorithm.
-
-Trie: Specialized tree structure for efficient prefix-based searching.
-
-🧠 Algorithms
-Searching: Mastery of Linear and Binary Search, including applications in 2D matrices.
-
-Sorting: Implementation and analysis of Bubble Sort and Merge Sort.
-
-Recursion & Backtracking: Tackling complex combinatorial problems like Rat in a Maze and Subset Sum.
-
-Dynamic Programming: Optimizing recursive solutions with memoization and tabulation (e.g., Coin Change, Longest Palindromic Subsequence).
-
-Greedy Algorithms: Making locally optimal choices for problems like Job Scheduling.
-
-Sliding Window: An efficient technique for array and string problems.
-
-Two-Pointer Technique: A powerful method for optimizing solutions.
-
-fundamentals
-Time Complexity Analysis: Evaluating the efficiency of code using Big O notation.
-
-Problem-Solving Patterns: Identifying and applying common patterns to tackle new challenges.
+---
 
 📂 Repository Structure
 
@@ -93,3 +83,4 @@ Apply these DSA concepts to build larger, more complex projects.
 Dive deeper into advanced algorithms and system design principles.
 
 Thank you for visiting my repository!
+
