@@ -48,23 +48,37 @@ Problem-Solving Patterns
 📂 Repository Structure
 The code is organized into folders, with each folder dedicated to a specific data structure or algorithmic concept. The file names within each folder are descriptive of the problem they solve.
 
-dsa-python-practice/
-├── Time_Complexity/
-├── Arrays/
-├── Searching/
-├── Sorting/
-├── LinkedList/
-├── Stack/
-├── Recursion/
-├── Backtracking(Recursion)/
-├── TwoPointer/
-├── SlidingWindow/
-├── BinarySearch_problems/
-├── Greedy/
-├── Trees/
-├── Graphs/
-├── Dynamic_Programming/
-└── Trie/
+📁 Time_Complexity/
+
+📁 Arrays/
+
+📁 Searching/
+
+📁 Sorting/
+
+📁 LinkedList/
+
+📁 Stack/
+
+📁 Recursion/
+
+📁 Backtracking(Recursion)/
+
+📁 TwoPointer/
+
+📁 SlidingWindow/
+
+📁 BinarySearch_problems/
+
+📁 Greedy/
+
+📁 Trees/
+
+📁 Graphs/
+
+📁 Dynamic_Programming/
+
+📁 Trie/
 
 💻 How to Use This Repository
 You can clone this repository to your local machine to review the solutions or test the code.
